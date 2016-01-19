@@ -5,8 +5,9 @@ description: > # Welcome to my site. I'm a Computer Science Student at UC San Di
  I like Software Engineering, enjoy data, playing chess, and making people laugh!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://glcohen.github.io" # the base hostname & protocol for your site
-twitter_username: gabe_l_cohen
+linkedin_username: cohengabe
 github_username:  glcohen
+twitter_username: gabe_l_cohen
 
 # Build settings
 markdown: kramdown
